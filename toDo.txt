@@ -1,0 +1,8 @@
+
+
+**Small full stack project (LARAVEL/ANGULAR)
+==> Laravel 10 rest_api CRUD && Test CRUD in Postman API
+==> Angular components
+ __Navbar
+ __Content
+ __Footer
