@@ -1,4 +1,8 @@
 # FullStack-Laravel-Angular
 Le projet contient
+
+
 -> Une crud REST API programmée avec LARAVEL
--> Le coté frontend c'ete des composantent ANGULAR cela inclus la notion du (POO & Buinding ...)
+
+
+-> Le coté frontend c'ete des composantes ANGULAR cela inclus les notions du (POO & Buinding ...)
